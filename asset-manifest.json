@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/PersonalWebsite/static/css/main.5f361e03.chunk.css",
+    "main.js": "/PersonalWebsite/static/js/main.b7e50398.chunk.js",
+    "main.js.map": "/PersonalWebsite/static/js/main.b7e50398.chunk.js.map",
+    "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.889ce420.js",
+    "runtime-main.js.map": "/PersonalWebsite/static/js/runtime-main.889ce420.js.map",
+    "static/css/2.de424728.chunk.css": "/PersonalWebsite/static/css/2.de424728.chunk.css",
+    "static/js/2.8d24f797.chunk.js": "/PersonalWebsite/static/js/2.8d24f797.chunk.js",
+    "static/js/2.8d24f797.chunk.js.map": "/PersonalWebsite/static/js/2.8d24f797.chunk.js.map",
+    "index.html": "/PersonalWebsite/index.html",
+    "precache-manifest.29c719dcce0a8c3ab0c826992280b022.js": "/PersonalWebsite/precache-manifest.29c719dcce0a8c3ab0c826992280b022.js",
+    "service-worker.js": "/PersonalWebsite/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/PersonalWebsite/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/PersonalWebsite/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8d24f797.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.8d24f797.chunk.js.LICENSE.txt",
+    "static/media/AnthonyCover.JPG": "/PersonalWebsite/static/media/AnthonyCover.22b7f8c1.JPG",
+    "static/media/IEOM_Photo.png": "/PersonalWebsite/static/media/IEOM_Photo.5995e241.png",
+    "static/media/KPMG_fit.99f9f6b5.png": "/PersonalWebsite/static/media/KPMG_fit.99f9f6b5.99f9f6b5.png",
+    "static/media/NBA.png": "/PersonalWebsite/static/media/NBA.2443b266.png",
+    "static/media/NPX_Transparent.b8a9ed96.webp": "/PersonalWebsite/static/media/NPX_Transparent.b8a9ed96.b8a9ed96.webp",
+    "static/media/PepsiCo_transparent.6cc16f89.png": "/PersonalWebsite/static/media/PepsiCo_transparent.6cc16f89.6cc16f89.png",
+    "static/media/Raptors.png": "/PersonalWebsite/static/media/Raptors.851cf747.png",
+    "static/media/lightgrey-background.db03dca0.jpg": "/PersonalWebsite/static/media/lightgrey-background.db03dca0.db03dca0.jpg",
+    "static/media/volunteer.png": "/PersonalWebsite/static/media/volunteer.957a1a5e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.889ce420.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.8d24f797.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b7e50398.chunk.js"
+  ]
+}
